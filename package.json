@@ -1,0 +1,30 @@
+{
+  "name": "tajiri-mpesa-ctb",
+  "version": "1.0.0",
+  "description": "Simple mpesa package for ctb",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthur-codeX/tajiri-mpesa-ctb.git"
+  },
+  "keywords": [
+    "Mpesa-ctb",
+    "ctb",
+    "mpesa",
+    "ctb"
+  ],
+  "author": "Arthur-codeX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthur-codeX/tajiri-mpesa-ctb/issues"
+  },
+  "homepage": "https://github.com/Arthur-codeX/tajiri-mpesa-ctb#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "tajiri-mpesa-oauth": "^1.3.0",
+    "tajiri-mpesa-password": "^3.0.0"
+  }
+}
